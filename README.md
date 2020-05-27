@@ -15,5 +15,5 @@
 | 130 size brushed motor, 6V | 1 |
 | SG90 micro servo | 1 |
 | Small springs | 3 | Retractable pen springs work well for this; cut one in half for front suspension |
-| GNB 450mah 2s battery (JST connector) | 1 |
+| Venom Fly 300mah 2s battery (JST connector) | 1 |
 | Brushed ESC | 1 |
