@@ -1,5 +1,7 @@
 This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z body shells. Current version fits 90mm (M) wheelbase shells.
 
+![zcar image](image/1.jpg)
+
 ## Features: 
 - Independent front suspension and hinged rear suspension
 - Ackermann steering geometry with 45 degree max steering angle
