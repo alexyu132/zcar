@@ -24,3 +24,5 @@ This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z bod
 | Venom Fly 300mah 2s battery (JST connector) | 1 | Batteries up to 45x23x16mm should fit |
 | Small brushed ESC, 2S compatible | 1 |
 | Small radio receiver | 1 | 2 channels or more, smaller than approx 34x22x13mm. Flysky GR3E works if decased. |
+| MINI-Z shell | 1 | Tested with MZQ101 AE86 shell |
+| MINI-Z tires | 4 | 8.5mm width, 25mm OD, 20mm ID. The tires that come with the display chassis work fine. |
