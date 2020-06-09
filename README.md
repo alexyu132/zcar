@@ -8,7 +8,7 @@ This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z bod
 - Uses common and cheap parts (625 bearings, M3 hardware)
 - Low part count and variety - only 3 different screw lengths needed; locknuts everywhere
 
-## Parts List
+## Non-printed Parts List
 
 |  Part | Quantity   | Notes  |
 |---|---|---|
@@ -26,3 +26,19 @@ This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z bod
 | Small radio receiver | 1 | 2 channels or more, smaller than approx 34x22x13mm. Flysky GR3E works if decased. |
 | MINI-Z shell | 1 | Tested with Kyosho MZQ101 AE86 shell |
 | MINI-Z tires | 4 | 8.5mm width, 25mm OD, 20mm ID. The tires that come with the display chassis work fine. |
+
+## Print settings
+### Resolution: 0.1-0.15mm
+
+### Infill: 25% or higher
+
+### Vertical perimeters: 3 or more
+
+### Horizontal perimeters: 4 or more
+
+### Supports: Off
+
+### Printing Notes:
+Most of the printed parts are split into 2 prearranged trays. Print tray1.stl at 0.15mm layer height and tray2.stl at 0.1mm layer height. Make sure your printer has good layer adhesion, as some parts have a small bed contact area and can warp or detach easily. The front wheels have a cylindrical piece of built-in support on the inside of the wheel. To remove, use pliers to grip the support and pull straight out without twisting.
+
+The motor mount and gears are located in the geartrains subfolder in the STL folder. There are currently 2 gear ratios available - 13T:42T and 11T:43T. There are also 2 motor mounts available since different models of 130 motors vary slightly in size. The loose mount fits motors that are 15.4mm wide across the flats, while the tight mount fits 15mm wide motors. For more powerful motors, it may be necessary to print the motor mount and motor pinion in ABS or PETG to prevent the plastic from softening.
