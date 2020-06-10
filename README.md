@@ -28,15 +28,15 @@ This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z bod
 | MINI-Z tires | 4 | 8.5mm width, 25mm OD, 20mm ID. The tires that come with the display chassis work fine. |
 
 ## Print settings
-### Resolution: 0.1-0.15mm
+#### Resolution: 0.1-0.15mm
 
-### Infill: 25% or higher
+#### Infill: 25% or higher
 
-### Vertical perimeters: 3 or more
+#### Vertical perimeters: 3 or more
 
-### Horizontal perimeters: 4 or more
+#### Horizontal perimeters: 4 or more
 
-### Supports: Off
+#### Supports: Off
 
 ### Printing Notes:
 Most of the printed parts are split into 2 prearranged trays. Print tray1.stl at 0.15mm layer height and tray2.stl at 0.1mm layer height. Make sure your printer has good layer adhesion, as some parts have a small bed contact area and can warp or detach easily. The front wheels have a cylindrical piece of built-in support on the inside of the wheel. To remove, use pliers to grip the support and pull straight out without twisting.
