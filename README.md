@@ -27,7 +27,7 @@ Video: https://www.youtube.com/watch?v=_t0HLC2bZMU
 | Small brushed ESC, 2S compatible | 1 |
 | Small radio receiver | 1 | 2 channels or more, smaller than approx 34x22x13mm. Flysky GR3E works if decased. |
 | MINI-Z shell | 1 | Tested with Kyosho MZQ101 AE86 shell |
-| MINI-Z tires | 4 | 8.5mm width, 25mm OD, 20mm ID. The tires that come with the display chassis work fine. |
+| MINI-Z tires | 4 | 8.5mm width, 25mm OD, 20mm ID. The tires that come with MINI-Z shells work fine. |
 
 
 ## Printing Notes:
