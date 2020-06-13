@@ -1,5 +1,7 @@
 This is a 1/28 scale RC chassis designed to be compatible with Kyosho MINI-Z body shells. Current version fits 90mm (M) wheelbase shells.
 
+Video: https://www.youtube.com/watch?v=_t0HLC2bZMU
+
 ![zcar image](image/1.jpg)
 
 ## Features: 
