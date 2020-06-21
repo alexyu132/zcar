@@ -23,7 +23,7 @@ Video: https://www.youtube.com/watch?v=_t0HLC2bZMU
 | SG90 micro servo | 1 |   |
 | Compression spring, ~4mm OD, ~5mm length | 2 | For front suspension. Softer springs are better.  Springs from multicolor retractable pens work well here when cut to length. Ordinary pen springs are too stiff. |
 | Compression spring, ~4mm OD, ~22mm length | 2 | For rear suspension. Springs from multicolor retractable pens work well here. Can cut to length or leave uncut for different suspension stiffnesses.|
-| Venom Fly 300mah 2s battery (JST connector) | 1 | Batteries up to 45x23x16mm should fit |
+| Venom Fly 300mah 2S battery or RDQ Series 2S 350mAh LiHV battery | 1 | Batteries up to approx. 45x23x16mm should fit |
 | Small brushed ESC, 2S compatible | 1 |
 | Small radio receiver | 1 | 2 channels or more, smaller than approx 34x22x13mm. Flysky GR3E works if decased. |
 | MINI-Z shell | 1 | Tested with Kyosho MZQ101 AE86 shell |
