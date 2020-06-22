@@ -45,7 +45,7 @@ Most of the printed parts are split into 2 prearranged trays. **Print tray1.stl 
 
 The front wheels have a cylindrical piece of built-in support on the inside of the wheel. To remove, use pliers to grip the support and pull straight out without twisting.
 
-The motor mount and gears are located in the geartrains subfolder in the STL folder. **There are currently 3 gear ratios available: 13T:42T, 11T:43T, and 10T:43T**. 
+The motor mount and gears are located in the geartrains subfolder in the STL folder. **There are currently 4 gear ratios available: 13T:42T, 11T:43T, 10T:43T, and 9T:43T**. Generally a lower gear ratio (fewer teeth on motor pinion) is preferred unless your motor is designed for low speed/high torque.
 
 For each gearing option, there are loose and tight motor mounts available due to 130 motors varying slightly in size. The loose mount fits motors that are 15.4mm wide across the flats, while the tight mount fits 15mm wide motors. If you decide to change the gearing, make sure to also print a matching motor mount, as motor mounts are not interchangeable among different geartrains. For more powerful motors, you may need to print the pinion and motor mount in ABS or PETG to prevent heat-induced softening.
 
