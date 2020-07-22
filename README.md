@@ -10,6 +10,12 @@ Video: https://www.youtube.com/watch?v=_t0HLC2bZMU
 - Uses common and cheap parts (625 bearings, M3 hardware)
 - Low part count and variety - only 3 different screw lengths needed; locknuts everywhere
 
+## New in 1.1:
+- More robust rear bearing assembly
+- Front suspension travel reduced to prevent scraping
+- Redesigned front body mount for increased ground clearance
+- Reduced height of motor mount and rear suspension frame to fit lower profile shells
+
 ## Non-printed Parts List
 
 |  Part | Quantity   | Notes  |
